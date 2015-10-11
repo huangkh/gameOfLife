@@ -174,6 +174,7 @@ function reinitGrid(){
 		}
 		else{
 			array[i] = 2;
+			
 		}
 		auxArray[i] = 0;
 	}
